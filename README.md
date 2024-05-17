@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil :brazil
+### Bem vindo ao meu perfil 🇧🇷
 
 <!--
 **gustavoalves2b/gustavoalves2b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
