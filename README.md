@@ -1,9 +1,9 @@
 ### Bem vindo ao meu perfil 🇧🇷
 
--Meu nome é Gustavo Alves
+- Meu nome é Gustavo Alves
 
--Estou estudando na Alura
+- Estou estudando na Alura
 
--Estou me desenvolvendo na linguagem Javascript
+- Estou me desenvolvendo na linguagem Javascript
 
--utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
